@@ -2,9 +2,9 @@ Certainly! Here’s a comprehensive README file for your project, including inst
 
 ---
 
-# NewsDaily
+# NewsFirst
 
-Welcome to NewsDaily, a simple news aggregator website that displays the latest headlines and articles from various categories. This project utilizes the News API to fetch news content, and Bootstrap for styling.
+Welcome to NewsFirst, a simple news aggregator website that displays the latest headlines and articles from various categories. This project utilizes the News API to fetch news content, and Bootstrap for styling.
 
 ## Features
 
@@ -28,8 +28,8 @@ To set up and run this project locally, follow these instructions:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/newsdaily.git
-   cd newsdaily
+   git clone https://github.com/your-username/newsfirst.git
+   cd newsfirst
    ```
 
 2. **Install dependencies**
@@ -64,7 +64,7 @@ To set up and run this project locally, follow these instructions:
 
 2. **Access the application**
 
-   Open your web browser and navigate to `http://localhost:8080` to view the NewsDaily application.
+   Open your web browser and navigate to `http://localhost:8080` to view the NewsFirst application.
 
 ## File Descriptions
 
